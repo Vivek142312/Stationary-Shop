@@ -17,3 +17,5 @@ else:
   print(f"Pencil:{pencil_cost:.2f}")
   print(f"Eraser: {eraser_cost:.2f}")
 ```
+### Output
+<img width="366" height="242" alt="image" src="https://github.com/user-attachments/assets/a7ff518d-0a56-4ff0-8966-28de2e04284f" />
